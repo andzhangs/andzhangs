@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://komarev.com/ghpvc/?username=andzhangs&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+
 <!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TooCareAboutYOU.andzhangs.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andzhangs.visitor-badge&left_color=green&right_color=red)
 -->
 
 

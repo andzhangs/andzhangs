@@ -23,9 +23,5 @@ Here are some ideas to get you started:
 
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andzhangs.visitor-badge&left_color=green&right_color=red)
--->
-
 
 

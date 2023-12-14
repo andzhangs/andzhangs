@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to Shuai's learning space. 👋 
-## <span><img src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=blue"/></span>
+<img src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=blue"/>
+<img src="https://komarev.com/ghpvc/?username=andzhangs&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 [![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![andzhangs](https://github-readme-stats.vercel.app/api/wakatime?username=TooCareAboutYOU)](https://github.com/anuraghazra/github-readme-stats)
 
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://komarev.com/ghpvc/?username=andzhangs&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=andzhangs.visitor-badge&left_color=green&right_color=red)

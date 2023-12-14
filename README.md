@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andzhangs&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![andzhangs](https://github-readme-stats.vercel.app/api/top-langs/?username=andzhangs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs&theme=flat&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 

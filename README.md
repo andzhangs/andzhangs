@@ -1,6 +1,3 @@
-### Welcome 👋 
-## <span><img src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=Android&logoColor=white" /></span>
-
 <!--
 **andzhangs/andzhangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome 👋 
+## <span><img src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=white" /></span>
 
 [![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs)](https://github.com/anuraghazra/github-readme-stats)
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)

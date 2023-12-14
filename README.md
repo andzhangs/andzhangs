@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome 👋 
+### Welcome to Shuai's learning space. 👋 
 ## <span><img src="https://img.shields.io/badge/-Android-1572B6?style=flat-square&logo=Android&logoColor=red"/></span>
 
 [![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

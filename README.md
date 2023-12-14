@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 [![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![andzhangs](https://github-readme-stats.vercel.app/api/wakatime?username=TooCareAboutYOU.andzhangs)](https://github.com/anuraghazra/github-readme-stats)
+[![andzhangs](https://github-readme-stats.vercel.app/api/wakatime?username=andzhangs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andzhangs.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TooCareAboutYOU.visitor-badge&left_color=green&right_color=red)
 
 
 

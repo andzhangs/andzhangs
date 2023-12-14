@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=andzhangs)](https://github.com/anuraghazra/github-readme-stats)
+[![andzhangs](https://github-readme-stats.vercel.app/api?username=andzhangs)](https://github.com/anuraghazra/github-readme-stats)
+[![andzhangs](https://github-profile-trophy.vercel.app/?username=andzhangs)](https://github.com/ryo-ma/github-profile-trophy)
+<span><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=Android&logoColor=white" /></span>
+
+
 

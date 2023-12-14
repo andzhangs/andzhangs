@@ -1,4 +1,5 @@
-### Hi there 👋 <span><img src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=Android&logoColor=white" /></span>
+### Welcome 👋 
+## <span><img src="https://img.shields.io/badge/-Android-E34F26?style=flat-square&logo=Android&logoColor=white" /></span>
 
 <!--
 **andzhangs/andzhangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
